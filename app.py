@@ -5,7 +5,7 @@ import requests
 from flask import Flask, request
 
 # 🎯 Remplace ce token par ton vrai token Telegram
-TELEGRAM_TOKEN = "7816514362:AAGHxmDqXKqdN8nFXXtI-yfAbP9BmOjew7E"  # Ton token Telegram ici
+TELEGRAM_TOKEN = "7816514362:AAGKbLm3ARRwZz9BH0ByVJh9sSvjzAFSiiw"  # Ton token Telegram ici
 
 # 📌 Initialiser Flask
 app = Flask(__name__)
